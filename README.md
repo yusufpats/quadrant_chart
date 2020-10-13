@@ -4,7 +4,7 @@
 
 A flutter application showing the usage of simple `CustomPaint` and `CustomPainter` to draw a quadrant chart with dynamically populated data (icons) inside each quadrant.
 
-The `CustomPaint` widget gives you a canvas to draw any complex UI using elemental shapes like circles, arc, lines, path, etc
+The `CustomPaint` allows you to draw any complex UI using elemental shapes like circles, arc, lines, path, etc
 
 #### `CustomPaint` widget
 ```
